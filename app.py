@@ -34,7 +34,7 @@ HTML = """<!DOCTYPE html>
 </head>
 <body>
     <div class="card">
-        <h1>🚀 CI/CD 部署成功！ 陈俊熙 2440664302</h1>
+        <h1>🚀 CI/CD 部署成功！ 陈俊熙 2440664302 (2.0)</h1>
         <p class="version">Flask App v1.0 | Python {{ python_version }}</p>
         <div class="status">✅ 服务运行正常</div>
         <div class="info">
